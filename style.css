@@ -1,0 +1,81 @@
+.page {
+    width: 1280px;
+    margin: 0 auto;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+}
+
+.upperbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 550px;
+    margin-left: 48px;
+}
+
+.downbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 556px;
+    margin-left: 48px;
+}
+
+.header__logo {
+    width: 95px;
+    height: 84px;
+}
+
+.picture {
+    height: 843px;
+}
+
+.leader {
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 129px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.004em;
+    width: 1032px;
+    height: 542px;
+    margin-left: 74px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text {
+    font-size: 40px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.004em;
+    width: 1070px;
+    height: 388px;
+    margin-left: 105px;
+    margin-top: 0px;
+}
+
+.icon {
+    margin-left: 900px;
+    margin-top: -110px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.box {
+    display: flex;
+    justify-content: space-evenly;  
+    text-align: left;
+    font-size: 40px;
+    line-height: 54px;
+    letter-spacing: -0.004em;
+    margin-bottom: 80px;
+}
